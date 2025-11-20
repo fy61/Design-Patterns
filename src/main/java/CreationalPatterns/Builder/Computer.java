@@ -1,4 +1,4 @@
-package first.Builder;
+package CreationalPatterns.Builder;
 
 // Computer.java
 public class Computer {

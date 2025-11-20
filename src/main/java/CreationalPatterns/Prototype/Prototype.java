@@ -1,4 +1,4 @@
-package first.Prototype;
+package CreationalPatterns.Prototype;
 
 // Prototype.java
 public class Prototype implements Cloneable {

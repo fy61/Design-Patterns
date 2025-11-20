@@ -1,4 +1,4 @@
-package first.Prototype;
+package CreationalPatterns.Prototype;
 
 // PrototypeTest.java
 import org.junit.jupiter.api.Test;

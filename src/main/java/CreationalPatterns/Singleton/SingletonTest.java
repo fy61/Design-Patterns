@@ -1,5 +1,4 @@
-package first.Singleton;// SingletonTest.java
-import first.Singleton.Singleton;
+package CreationalPatterns.Singleton;// SingletonTest.java
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

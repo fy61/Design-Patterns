@@ -1,4 +1,4 @@
-package BehavioralPatterns;
+package BehavioralPatterns.StrategyPattern;
 import org.junit.jupiter.api.Test;
 
 public class StrategyTest {

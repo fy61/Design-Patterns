@@ -1,4 +1,7 @@
 package BehavioralPatterns.VisitorPattern;
 
-public class Visitor {
+
+public interface Visitor {
+    void visit(Developer developer);
+    void visit(Manager manager);
 }

@@ -1,4 +1,4 @@
-package first.AbstractFactory;// AbstractFactoryTest.java
+package CreationalPatterns.AbstractFactory;// AbstractFactoryTest.java
 import org.junit.jupiter.api.Test;
 
 public class AbstractFactoryTest {

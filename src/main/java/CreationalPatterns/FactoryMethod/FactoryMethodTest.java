@@ -1,4 +1,4 @@
-package first.FactoryMethod;// FactoryMethodTest.java
+package CreationalPatterns.FactoryMethod;// FactoryMethodTest.java
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

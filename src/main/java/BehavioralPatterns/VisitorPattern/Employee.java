@@ -1,4 +1,6 @@
 package BehavioralPatterns.VisitorPattern;
 
-public class Employee {
+
+public interface Employee {
+    void accept(Visitor visitor);
 }

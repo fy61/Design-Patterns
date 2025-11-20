@@ -1,4 +1,4 @@
-package first.Singleton;
+package CreationalPatterns.Singleton;
 
 // Singleton.java
 public class Singleton {
